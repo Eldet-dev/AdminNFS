@@ -12,6 +12,8 @@ The present scripts allow the manipulation of the tracks as on the Ares-C with i
 
 These scripts only manipulate tracks compressed in mpeg-1 layer 2 (mp2) format, tracks in Ares-C G711 and G722 (telephone format) are not manipulable, but are displayed and simply erasable.
 
+To access compact flash cards at a low level (at the byte level), it is imperative to run these scripts in ADMINISTRATOR MODE.
+
 These scripts were developed by reverse engineering the NFS format, due to the lack of available sources and data manipulation software maintained as computing evolved.
 
 Natively, these scripts have an interface in two languages: French, because Nagra manufactured these recorders in French-speaking Switzerland at the time, and in English to remain more universal. Both scripts work directly on Windows and Linux without modification (tested with Windows 10 and Xubuntu Linux).
