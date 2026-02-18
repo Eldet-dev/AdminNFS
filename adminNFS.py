@@ -1,5 +1,6 @@
 """
-Auteur: Claude Eldet (eldet@wanadoo.fr) Version 1.0 Janvier 2026.
+
+
 """
 
 from tkinter import *
